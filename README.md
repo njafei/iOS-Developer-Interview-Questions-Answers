@@ -32,7 +32,7 @@
 ## 知识性问题
 * 什么是响应链，它是怎么工作的？[iOS 响应链 Responder Chain](https://njafei.github.io/2017/03/29/Responder-chain/)
 * 如何优化tableview性能？
-* 如何访问并修改一个类的私有属性？
+* 如何访问并修改一个类的私有属性？[如何访问和修改一个对象的私有属性](https://njafei.github.io/2017/06/15/howToChangeObjectProperty/)
 * iOS Extension 是什么？能列举几个常用的 Extension 么？
 * 如何把一个包含自定义对象的数组序列化到磁盘？
 * Apple Pay 是什么？它的大概工作流程是怎样的？
